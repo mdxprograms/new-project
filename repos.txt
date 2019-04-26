@@ -1,0 +1,3 @@
+mithril git@github.com:mdxprograms/mithril-starter.git
+sapper "-b webpack git@github.com:sveltejs/sapper-template.git"
+svelte git@github.com:kazzkiq/svelte-simple-starter-kit.git
